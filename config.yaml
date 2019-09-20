@@ -1,0 +1,10 @@
+accountID: 101-004-12211600-001
+accessToken: 3282a2c5c3e6e10c06ae7d04f365ae25-efe560b3801a46ee6ad6fe781632a78e
+numTrainIterations: 2
+rewardStrategy: sortino
+gran: H4
+instr: EUR_USD
+to: '2017-06-30T00:00:00Z'
+from: '2017-01-01T00:00:00Z'
+dataDir: src/data
+
